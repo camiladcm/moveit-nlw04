@@ -1,10 +1,4 @@
 <p align="center">
-  <img alt="logo Move.it" src=".github/favicon.png" width="50%">
-</p>
-
-<br>
-
-<p align="center">
   <img alt="Move.it" src=".github/moveit.png" width="100%">
 </p>
 
@@ -36,13 +30,9 @@ $ yarn
 $ yarn dev
 ```
 
-## Project
+## 💻 Project
 
 This project was developed during the Next Level Week, presented by Rocketseat.  
-
-## Information
-
-This project was developed during the 1st Rocketseat Discover Marathon. 
 
 ## 📝 License
 
